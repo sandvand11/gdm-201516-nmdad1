@@ -6,12 +6,12 @@ Resume
 **Birthday:** 18/09/1996  
   
 **Hobbies:**  
-*Coding  
-*Drawing  
-*Gaming  
+	>Coding  
+	>Drawing  
+	>Gaming  
   
 **Skills:**
-*Photoshop  
-*Illustrator  
-*JavaScript  
-*HTML/CSS  
+	* Photoshop  
+	* Illustrator  
+	* JavaScript  
+	* HTML/CSS  
