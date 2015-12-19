@@ -51,6 +51,20 @@ Geschreven met Javascript, jQuery, CSS en HTML.
 ----------
 
 ### Screenshots
-![screenshot_start](http://www.angry-moustache.com/github/screen_1.jpg)
-![screenshot_question](http://www.angry-moustache.com/github/screen_2.jpg)
-![screenshot_leaderboard](http://www.angry-moustache.com/github/screen_3.jpg)
+![screenshot_start](http://www.angry-moustache.com/github/screen_1.png)
+![screenshot_question](http://www.angry-moustache.com/github/screen_2.png)
+![screenshot_leaderboard](http://www.angry-moustache.com/github/screen_3.png)
+
+----------
+
+### Code Snippits
+## HTML
+![snippit_html](http://www.angry-moustache.com/github/html.png)
+
+## CSS
+![snippit_css](http://www.angry-moustache.com/github/css.png)
+
+## Javascript
+![snippit_javascript_1](http://www.angry-moustache.com/github/javascript_1.png)
+![snippit_javascript_2](http://www.angry-moustache.com/github/javascript_2.png)
+![snippit_javascript_3](http://www.angry-moustache.com/github/javascript_3.png)
