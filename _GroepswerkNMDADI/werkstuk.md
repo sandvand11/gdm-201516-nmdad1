@@ -47,3 +47,10 @@ Geschreven met Javascript, jQuery, CSS en HTML.
 ![visual_home](http://www.angry-moustache.com/github/home_design.jpg)
 ![visual_quiz](http://www.angry-moustache.com/github/quiz_visual.jpg)
 ![visual_leaderboard](http://www.angry-moustache.com/github/leaderboard_visual.jpg)
+
+----------
+
+### Screenshots
+![screenshot_start](http://www.angry-moustache.com/github/screen_1.jpg)
+![screenshot_question](http://www.angry-moustache.com/github/screen_2.jpg)
+![screenshot_leaderboard](http://www.angry-moustache.com/github/screen_3.jpg)
